@@ -1,0 +1,45 @@
+.input-block {
+  margin: 25px 0;
+}
+.registration-bg--modify {
+  background-image: url(../../../public/images/registration.png);
+}
+.registration_heading {
+  font-size: 45px;
+  font-weight: 500;
+  color: #263238;
+}
+.registration {
+  padding: 126px 80px;
+}
+.reg_title {
+  font-size: 15px;
+  line-height: 2;
+  color: #62575f;
+}
+.registration_btn {
+  color: rgba(17, 2, 78, 0.911) !important;
+  margin-top: 26px !important;
+  width: 20% !important;
+  padding: 11px 0 !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  letter-spacing: 3px !important;
+  border: 1px solid #afafaf !important;
+  background: none !important;
+  box-shadow: none !important;
+  transition: 0.4s;
+  outline: none !important;
+}
+.registration_btn:hover {
+  box-shadow: 0 0px 12px rgb(109 4 110 / 28%) !important;
+}
+.member p {
+  color: #62575f;
+}
+.member a {
+  color: #62575f;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 3px;
+}
